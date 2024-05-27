@@ -6,5 +6,5 @@ public class Menu {
     private long menuId;
     private String menuName;
     private double menuPrice;
-    private List<Ingredient> listOfIngredient;
+    private List<MenuIngredient> menuIngredients;
 }

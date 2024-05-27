@@ -4,8 +4,7 @@ import java.time.Instant;
 
 public class IngredientStock {
     private long ingredientStockId;
-    private double ingredientStockQauntity;
+    private double ingredientStockQuantity;
     private Instant ingredientStockDateTime;
     private long ingredientId;
-    private long unitId;
 }
